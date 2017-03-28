@@ -23,3 +23,7 @@ history organized? How would branches help?
 	Branches are helpful if you want to keep a working rendition of your
 	current program and want to make some experimental changes or drastic
 	changes to it without affecting the master branch.
+
+How do the diagrams help you visualize the branch structure?
+
+	It shows how each commit is relative to one another.
