@@ -2,4 +2,11 @@ What happens when you initialize a repository? Why do you need to do it?
 
 	When you initilize a repository, you're then able to commit files
 	to the repository. You need to do this in order to have a history of your
-	commits. 
+	commits.
+ 
+How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+
+	The staging area is different than the working directory and the 
+	repository because it is an area in betweeen those two. The items
+	in the staging area is being prepared to part of a repository.
